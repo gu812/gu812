@@ -10,7 +10,7 @@
 |---|---|---|
 | [**ai-radar**](https://github.com/gu812/ai-radar) | 每天 08:30 自动产出的 AI 日报：多角度检索、去重、双维度可信度标签，压成一张飞书卡片推到群里 | `pi` headless · DeepSeek Search API · `launchd` · 飞书 Card 2.0 · Shell |
 | [**gu812.github.io**](https://gu812.github.io) | 个人博客。Hexo + Butterfly，主题做了改造，自托管思源宋体，首页 three.js 动效只在需要时加载 | Hexo · GitHub Actions · 主题改造 · 前端性能 |
-| [**pi-config**](https://github.com/gu812/pi-config) | 可还原的 AI 编码环境：扩展、子代理、白名单式安装器，改之前先备份，凭据永不进仓库 | Python · Node.js · 配置工程 |
+| **pi-config** <sub>私有</sub> | 可还原的 AI 编码环境：扩展、子代理、白名单式安装器，改之前先备份，凭据永不进仓库 | Python · Node.js · 配置工程 |
 
 ## 我做这些东西时在意什么
 
